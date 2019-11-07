@@ -1,0 +1,6 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+- name: cir.png
+  visible: true

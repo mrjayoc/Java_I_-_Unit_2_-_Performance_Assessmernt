@@ -1,0 +1,8 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 89
+    length: 6
+    placeholder_text: 5 / 2;

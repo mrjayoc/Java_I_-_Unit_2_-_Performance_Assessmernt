@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Strings_and_Number_Outputs-Advanced_Task:main" external.linked.project.path="$MODULE_DIR$/../../../../Strings and Number Outputs/Advanced Task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Java_I_-_Unit_2_-_Performance_Assessmernt" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../Strings and Number Outputs/Advanced Task/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Strings and Number Outputs/Advanced Task/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Strings and Number Outputs/Advanced Task/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="util_main" />
+  </component>
+</module>

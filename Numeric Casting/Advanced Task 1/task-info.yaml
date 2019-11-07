@@ -1,0 +1,11 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 119
+    length: 4
+    placeholder_text: type_here
+  - offset: 143
+    length: 6
+    placeholder_text: type_here

@@ -1,0 +1,15 @@
+# Project exclude paths
+/.coursecreator/
+/.gradle/
+/Number Calculations/Standard Task 3/build/
+/Number Calculations/Standard Task 3/build/classes/java/main/
+/Numeric Casting/Advanced Task 1/build/
+/Numeric Casting/Advanced Task 1/build/classes/java/main/
+/Numeric Casting/Advanced Task 2/build/
+/Numeric Casting/Advanced Task 2/build/classes/java/main/
+/Numeric Casting/Standard Task 2/build/
+/Numeric Casting/Standard Task 2/build/classes/java/main/
+/Random Numbers/Standard Task 3/build/
+/Random Numbers/Standard Task 3/build/classes/java/main/
+/Strings and Number Outputs/Advanced Task/build/
+/Strings and Number Outputs/Advanced Task/build/classes/java/main/
